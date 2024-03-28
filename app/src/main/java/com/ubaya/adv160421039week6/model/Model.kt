@@ -11,7 +11,7 @@ data class Phone(
 )
 
 data class PhoneSpesifications(
-        val RAM: Int?,
-        val Storage: Int?,
-        val Battery: Int?
+        val RAM: String?,
+        val Storage: String?,
+        val Battery: String?
         )
